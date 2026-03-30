@@ -1,2 +1,3 @@
 # my-first-code
-author-Lakshay
+my-first-repository
+author-lakshay
